@@ -242,17 +242,13 @@
 // let L = 5;
 // let sum = 0;
 // let allSum = 0;
-// let avarage;
 // let mainAvarage;
 // let list;
 // for ( let i = K; i<=L; i++){
 //   sum += newArray[i];
-//   list= newArray.length;
-//   avarage= sum/(L-K)
 // }
 // for(let i=0; i<newArray.length; i++){
 //   allSum += newArray[i];
-//   list2= newArray.length;
 //   list= newArray.length - (L-K);
 // }
 // let c = (allSum-sum)/list;
